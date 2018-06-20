@@ -1,0 +1,14 @@
+h2{
+    margin:0;
+    padding:0;
+}
+h1{
+   width:100px;
+   height:990px;
+   color:white;
+   background:skyblue;
+   float:left;
+   margin-top:0;
+   margin-right:30px;
+   text-align:center;
+}
