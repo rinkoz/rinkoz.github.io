@@ -1,0 +1,22 @@
+h2{
+    margin:0;
+    padding:0;
+}
+h1{
+   width:160px;
+   height:980px;
+   color:white;
+   background:rgba(109, 132, 238, 0.774);
+   float:left;
+   margin-top:0;
+   margin-right:30px;
+   text-align:center;
+}
+span{
+    font-weight:bold;
+}
+p{
+    display:inline-block;
+    height:30px;
+    width:200px;
+}
