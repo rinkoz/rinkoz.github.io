@@ -1,0 +1,33 @@
+.bg1{
+    background: url(images/beijing6.jpg) no-repeat center center;
+    background-size:cover; 
+    height:700px;
+}
+.content-1{
+    background: rgb(211, 233, 241);
+}
+.content{
+    width: 670px;
+    height:450px;
+    overflow: hidden;
+    position: relative;
+}
+.img-hover{
+    width: 670px;
+    height:450px;
+    background: lightgreen;
+    position: absolute;
+    top: 0;
+    opacity: 0;
+    transition-duration: 1s;
+    display: flex;
+    justify-content: space-around;
+}
+.img-hover:hover{
+    opacity: 0.5;
+    transition-duration: 1s;   
+}
+.img-hover .btn{
+  position: absolute;
+  top:50%;
+}
